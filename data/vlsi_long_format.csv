@@ -1,0 +1,14 @@
+Metric,Value,Category
+Cell Count (Synthesis),115.0,Synthesis
+Total Cells (with Physical),345.0,Physical
+Core Area (um²),1941.8624,Physical
+Die Area (mm²),0.0037026476249999,Physical
+Wire Length (um),2748.0,Routing
+Vias Count,969.0,Routing
+WNS (ns),0.0,Timing
+TNS (ns),0.0,Timing
+Critical Path (ns),2.34,Timing
+Suggested Clock Period (ns),10.0,Timing
+Power Internal (uW),2.55e-05,Power
+Power Switching (uW),3.53e-05,Power
+Power Leakage (uW),7.47e-10,Power
