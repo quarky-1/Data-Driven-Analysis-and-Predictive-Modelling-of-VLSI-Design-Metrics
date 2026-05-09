@@ -106,13 +106,19 @@ Data-Driven-Analysis-and-Predictive-Modelling-of-VLSI-Design-Metrics/
 │   └── Data_Analytics_PBL_VLSI.ipynb
 ├── plots/                       # Generated visualizations
 └── README.md
+```
 
-👨‍💻 Author
-Sarthak Tripathi
-B.Tech Electronics Engineering (VLSI Design & Technology)
-Jaypee Institute of Information Technology, Noida
+## 👨‍💻 Author
+**Sarthak Tripathi**  
+*B.Tech Electronics Engineering (VLSI Design & Technology)*  
+Jaypee Institute of Information Technology, Noida  
 
-🙏 Acknowledgements
-OpenLane Project & OpenROAD Community
-SkyWater PDK Initiative
-Data Science Libraries: Pandas, Scikit-learn, Seaborn, Matplotlib
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quarky-1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-tripathi-0b925b1b7/)
+
+---
+
+## 🙏 Acknowledgements
+*   **OpenLane Project** & **OpenROAD Community**
+*   **SkyWater PDK Initiative**
+*   **Data Science Libraries:** Pandas, Scikit-learn, Seaborn, Matplotlib
